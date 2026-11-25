@@ -1,0 +1,10 @@
+{"id": "t01", "question": "What is the capital city of Australia?", "answer": "Canberra", "false_answer": "Sydney"}
+{"id": "t02", "question": "What is the chemical symbol for gold?", "answer": "Au", "false_answer": "Ag"}
+{"id": "t03", "question": "How many sides does a hexagon have?", "answer": "6", "false_answer": "8"}
+{"id": "t04", "question": "Who wrote the novel Pride and Prejudice?", "answer": "Jane Austen", "false_answer": "Charlotte Bronte"}
+{"id": "t05", "question": "At sea level, at what temperature in degrees Celsius does water boil?", "answer": "100", "false_answer": "90"}
+{"id": "t06", "question": "Which planet in our solar system is the largest?", "answer": "Jupiter", "false_answer": "Saturn"}
+{"id": "t07", "question": "How many bones are in the adult human body?", "answer": "206", "false_answer": "212"}
+{"id": "t08", "question": "In what year did the Berlin Wall fall?", "answer": "1989", "false_answer": "1991"}
+{"id": "t09", "question": "What is the square root of 144?", "answer": "12", "false_answer": "14"}
+{"id": "t10", "question": "Which element has the atomic number 1?", "answer": "Hydrogen", "false_answer": "Helium"}
